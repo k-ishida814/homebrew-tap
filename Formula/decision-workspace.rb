@@ -2,9 +2,9 @@
 class DecisionWorkspace < Formula
   desc "Answer Claude Code's questions one at a time in a separate workspace"
   homepage "https://github.com/k-ishida814/decision-workspace"
-  url "https://github.com/k-ishida814/decision-workspace/releases/download/v0.1.0/dw-0.1.0-darwin-arm64.tar.gz"
-  version "0.1.0"
-  sha256 "465efee6241a8e806fbf382e7647e5a3b2679466ff62d89438787d016960b0b8"
+  url "https://github.com/k-ishida814/decision-workspace/releases/download/v0.1.1/dw-0.1.1-darwin-arm64.tar.gz"
+  version "0.1.1"
+  sha256 "48d5a630bbac8ba846cad8fa47245aa1d1cd2dcc304839404110c9d840f11373"
   license "MIT"
 
   depends_on arch: :arm64
